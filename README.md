@@ -3,19 +3,12 @@
   <img src="./assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="404" align="right" />
 </p>
 
----
-
 ## 👨🏻‍💼Sobre mim
 🔹Eu sou o Wellington Batista Parreira Neto  
-🔹Atualmente desempenho a atividade de Controlador de Voo na [NAV Brasil – Serviços de Navegação Aérea S/A](https://www.navbrasil.gov.br/)  
-🔹Graduado em Sistemas para Internet  
+🔹Atualmente desempenho a atividade de Controlador de Voo  
+🔹Graduado em Sistemas para Internet pelo [**IFTO**](https://www.ifto.edu.br/)  
 🔹Praticante de Tae-Kwon-Do  
 🔹Estudando e interessado em desenvolvimento de aplicações WEB e dispositivos móveis
-
-### 🎓 Formação Acadêmica
-🔸**Curso Superior de Tecnologia em Sistemas para Internet**  
-📍 Instituto Federal do Tocantins (**IFTO**) - Palmas  
-📅 2021 – 2024
 
 ---
 
