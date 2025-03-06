@@ -1,6 +1,6 @@
 # ♾️ **Bem-vindo ao meu perfil no GitHub**
 <p>
-  <img src="./assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="404" align="right" />
+  <img src="https://github.com/wprotheus/wprotheus/raw/main/assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="404" align="right" />
 </p>
 
 ## 👨🏻‍💼Sobre mim
@@ -12,7 +12,7 @@
 
 ---
 
-# ℹ️ Technical skills
+# ℹ️ Technical Skills
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
