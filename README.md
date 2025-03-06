@@ -1,6 +1,6 @@
 # ♾️ **Bem-vindo ao meu perfil no GitHub**
 <p>
-  <img src="https://github.com/wprotheus/wprotheus/raw/main/assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="404" align="right" />
+  <img src="./assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="350px" align="right"/>
 </p>
 
 ## 👨🏻‍💼Sobre mim
@@ -50,6 +50,14 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img align="center" style="margin:16px auto" src="https://github-readme-stats.vercel.app/api?username=wprotheus&show_icons=true&theme=gotham" alt="wprotheus's GitHub Stats" /><br>
-  <img align="center" style="margin:16px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprotheus&hide_progress=true&layout=compact&theme=gotham" alt="wprotheus's Used Languages Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wprotheus&show_icons=true&theme=gotham" alt="wprotheus's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprotheus&hide_progress=true&layout=compact&theme=gotham" alt="wprotheus's Used Languages Stats" />
 </p>
+
+---  
+<div align="center">
+    <h2><b>Visitors Count</b></h2>
+    <p>
+        <img src="https://profile-counter.glitch.me/{wprotheus}/count.svg" alt="Visitors Count" />
+    </p> 
+</div>
