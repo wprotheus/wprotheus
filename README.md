@@ -1,14 +1,14 @@
-# ♾️ **Bem-vindo ao meu perfil no GitHub**
+# ♾️ **Welcome to my GitHub profile**
 <p>
-  <img src="./assets/1b.png" alt="alusão ao ambiente de desenvolvimento" width="350px" align="right"/>
+  <img src="./assets/1b.png" alt="reference to the development environment" width="350px" align="right"/>
 </p>
 
-## 👨🏻‍💼Sobre mim
-🔹Eu sou o Wellington Batista Parreira Neto  
-🔹Atualmente desempenho a atividade de Controlador de Voo  
-🔹Graduado em Sistemas para Internet pelo [**IFTO**](https://www.ifto.edu.br/)  
-🔹Praticante de Tae-Kwon-Do  
-🔹Estudando e interessado em desenvolvimento de aplicações WEB e dispositivos móveis
+## 👨🏻‍💼About me
+🔹I'm Wellington Batista Parreira Neto  
+🔹Currently working as an Air Traffic Controller  
+🔹Graduated in Internet Systems from [**IFTO**](https://www.ifto.edu.br/)  
+🔹Taekwondo practitioner  
+🔹Studying and interested in web and mobile application development
 
 ---
 
